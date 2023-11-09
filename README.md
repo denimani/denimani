@@ -1,2 +1,1 @@
-<h1 align="center">Привет, меня зовут Денис!</h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
