@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center" style="color: blue">Python Backend Developer</h1>
+<h1 align="center">Python Backend Developer</h1>
 
-## About Me:
+<h3 align="left">About Me:</h3>
 👋 Hi I'm Denis. I want to create efficient and scalable web applications.
 
 💡 I'm focused on crafting quality and clean code, adhering to the principles of DRY (Don't Repeat Yourself) KISS (Keep It Simple, Stupid).
